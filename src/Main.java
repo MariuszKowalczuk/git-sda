@@ -1,6 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        Loger.log("Hello Everyone!");
+        Loger.log("Hello Git!");
     }
 }
