@@ -3,3 +3,5 @@ public class Loger {
         System.out.println(str);
     }
 }
+
+//log
